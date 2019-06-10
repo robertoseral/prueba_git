@@ -1,0 +1,37 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5 ,h6 {
+	font-family: 'Oswald', sans-serif;
+	color: orange;
+}
+
+.navbar-default .navbar-nav>li>a, 
+a {
+	color: orange;
+	text-transform: uppercase;
+	font-weight: bolder;
+}
+
+h2 {
+	margin-top: 2em;
+}
+
+form {
+	margin-top: 6em;
+}
+
+section.map {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.slide h2 {
+	color: white;
+	text-shadow: 0 0 5px #333;
+}
+
+table td {
+	text-align: right;
+}
